@@ -1,7 +1,7 @@
 ### Vida longa e próspera 🛸🖖
 
 
-![cover](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/coffeeMod.png)
+![cover]()
 <!--
 **LucasSilvaMarts/LucasSilvaMarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
