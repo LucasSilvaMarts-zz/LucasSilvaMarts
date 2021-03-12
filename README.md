@@ -3,7 +3,7 @@
 
 ![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
 
-![my-octocat]()
+![my-octocat](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png)
 
 
 
