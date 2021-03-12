@@ -3,7 +3,7 @@
 
 ![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
 
-![my-octocat](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png)
+![my-octocat](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png =100x20)
 
 
 
