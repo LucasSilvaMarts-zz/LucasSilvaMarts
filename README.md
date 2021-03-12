@@ -3,9 +3,9 @@
 
 ![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
 
-![my-octocat](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png =100x20)
 
 
+<img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="300px">
 
 
 
