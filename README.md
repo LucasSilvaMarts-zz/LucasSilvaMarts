@@ -1,8 +1,7 @@
-### Vida longa e próspera 🛸🖖 README EM CONSTRUÇÃO 🔨
 
-
-![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
-
+<div>
+  ![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
+</div>
 
 
 <div align="center">
