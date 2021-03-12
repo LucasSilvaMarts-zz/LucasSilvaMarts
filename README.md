@@ -6,11 +6,10 @@
 
 <div align="left">
   <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="200px">
- <p>Blablablablab</p>
 </div>
 
-<div align="right"> 
- 
+<div align="top center"> 
+ <p>Blablablablab</p>
 </div>
 
 
