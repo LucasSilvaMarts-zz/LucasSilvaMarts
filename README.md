@@ -37,14 +37,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?LucasSilvaMarts=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?LucasSilvaMarts=arsentieva" />
+<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?LucasSilvaMarts" />
 
 </details>
 
@@ -55,6 +55,8 @@
 [portfolio]: https://github.com/LucasSilvaMarts
 
 <br />
+<br />
+---
 
 <div align="center">
   <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
