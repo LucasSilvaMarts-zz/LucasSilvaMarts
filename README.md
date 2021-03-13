@@ -10,9 +10,9 @@
 </div>
 
 <div align="right">
- <p>I'm currently studing Software Development at Trybe 📚💻</p>
- <p>I'm currently studing ReactJs ⚛</p>
- <p>I'm always learning something new</p>
+ - 📚💻 I'm currently studing Software Development at Trybe 
+ - ⚛ I'm currently studing ReactJs 
+ - I'm always learning something new
 </div>
 
 
