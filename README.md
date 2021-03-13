@@ -12,15 +12,9 @@
 </div>
 
 
-<div align="left">
-  <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
-</div>
+<img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
 
-<div align="right" margin-top="30px">
- <p>📚💻 I'm currently studing Software Development at Trybe</p>
- <p>⚛ I'm currently studing ReactJs</p>
- <p>📝I'm always learning something new</p>
-</div>
+
 
 
 
