@@ -37,26 +37,22 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?LucasSilvaMarts=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?LucasSilvaMarts=arsentieva" />
 
 </details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/lucas-silva-083943184/
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/lucas-silva
 [portfolio]: https://github.com/LucasSilvaMarts
-
-
-
-
 
 <div align="center">
   <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
