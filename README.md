@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=radical)
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
 
 </details>
 
