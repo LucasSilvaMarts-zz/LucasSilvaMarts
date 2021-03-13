@@ -8,7 +8,7 @@
 - 💻 I’m currently learning ReactJS.
 - ⚡ Fun fact: I play guitar!
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="lucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lucas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 
