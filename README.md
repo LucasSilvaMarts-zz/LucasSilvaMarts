@@ -59,7 +59,7 @@
 <br />
 ----
 
-<div align="left">
+<div align="right">
   <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
 </div>
 
