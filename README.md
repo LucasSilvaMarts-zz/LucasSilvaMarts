@@ -10,7 +10,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -52,7 +52,7 @@
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: linkedin.com/in/lucassilvamarts
+[linkedin]: https://linkedin.com/in/lucassilvamarts
 [portfolio]: https://github.com/LucasSilvaMarts
 
 <br />
