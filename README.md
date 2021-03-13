@@ -11,9 +11,9 @@
  <p>📝I'm always learning something new</p>
 </div>
 
-
-<img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
-
+<div align="center">
+  <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
+</div>
 
 
 
