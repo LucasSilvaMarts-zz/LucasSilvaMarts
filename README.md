@@ -51,8 +51,10 @@
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/lucas-silva
+[linkedin]: linkedin.com/in/lucassilvamarts
 [portfolio]: https://github.com/LucasSilvaMarts
+
+<br />
 
 <div align="center">
   <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
