@@ -8,6 +8,9 @@
 - 💻 I’m currently learning ReactJS.
 - ⚡ Fun fact: I play guitar!
 
+<div align="right">
+  <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
+</div>
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="lucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -58,9 +61,5 @@
 <br />
 <br />
 ----
-
-<div align="right">
-  <img src="https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/my-octocat.png" alt="my-octocat"  height="250px">
-</div>
 
 ![bottomDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave%20bottom.svg)
