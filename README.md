@@ -37,14 +37,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&hide_border=true" />
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?LucasSilvaMarts" />
+
 
 </details>
 
