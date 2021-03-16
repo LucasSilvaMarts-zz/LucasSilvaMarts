@@ -36,7 +36,11 @@
 <details>
   <summary align="left">:zap: GitHub Stats</summary>
   
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaMarts&show_icons=true&theme=tokyonight" />
+</a>
+  
+<!--![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)-->
 
 </details>
 
