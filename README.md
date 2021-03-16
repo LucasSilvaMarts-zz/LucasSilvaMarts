@@ -40,13 +40,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
- 
-[![Top Langs]("https://github.com/anuraghazra/github-readme-stats")]("https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaMarts&layout=compact&theme=tokyonight")
-
-
-</details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/
