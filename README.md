@@ -35,11 +35,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-</details>
-
-<div align="center">
+  
   ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
-</div>
+</details>
 
 
 [website]: https://holistic-developer.com/
