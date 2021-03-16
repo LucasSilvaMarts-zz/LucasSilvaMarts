@@ -34,20 +34,16 @@
 ----
 
 <details>
-  <summary align="left">:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
   
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
 
 </details>
 
 <details>
-  <summary align="right">:zap: Most Used Languages</summary>
-  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaMarts&layout=compact&theme=tokyonight" />
-</a>
-
-<!--[![Top Langs]()]()-->
+  <summary>:zap: Most Used Languages</summary>
+ 
+[![Top Langs]("https://github.com/anuraghazra/github-readme-stats")]("https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaMarts&layout=compact&theme=tokyonight")
 
 
 </details>
