@@ -40,8 +40,8 @@
 
  <!--![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)-->
  
- <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight" align="center">
+ <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight">
 </p>
 
 
