@@ -38,7 +38,11 @@
 </details>
 -->
 
- ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
+ <!--![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)-->
+ 
+ <p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight" align="center">
+</p>
 
 
 [website]: https://holistic-developer.com/
