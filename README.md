@@ -5,7 +5,7 @@
 ## I'm a software developer
 - ✍ You can find my projects here https://github.com/LucasSilvaMarts
 - 📚 I’m currently studying at Trybe.
-- 💻 I’m currently learning MongoDB.
+- 💻 I’m currently learning NodeJs.
 - ⚡ Fun fact: I play guitar!
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="lucas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
@@ -30,6 +30,7 @@
 [<img align="left" alt="Jest" width="30px" src="https://jestjs.io/img/jest.png" />][youtube]
 [<img align="left" alt="MySql" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />][youtube]
 [<img align="left" alt="MongoDB" width="65px" src="https://assets.zabbix.com/img/brands/mongodb.svg" />][youtube]
+[<img align="left" alt="MongoDB" width="65px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
 
 <br />
 <br />
