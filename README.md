@@ -30,7 +30,7 @@
 [<img align="left" alt="Jest" width="30px" src="https://jestjs.io/img/jest.png" />][youtube]
 [<img align="left" alt="MySql" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />][youtube]
 [<img align="left" alt="MongoDB" width="65px" src="https://assets.zabbix.com/img/brands/mongodb.svg" />][youtube]
-[<img align="left" alt="MongoDB" width="50px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
+[<img align="left" alt="MongoDB" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
 
 <br />
 <br />
