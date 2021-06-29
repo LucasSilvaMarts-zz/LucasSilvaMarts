@@ -30,8 +30,8 @@
 [<img align="left" alt="Jest" width="30px" src="https://jestjs.io/img/jest.png" />][youtube]
 [<img align="left" alt="MySql" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />][youtube]
 [<img align="left" alt="MongoDB" width="65px" src="https://assets.zabbix.com/img/brands/mongodb.svg" />][youtube]
-[<img align="left" alt="MongoDB" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
-[<img align="left" alt="MongoDB" width="40px" src="https://banner2.cleanpng.com/20180430/cae/kisspng-mocha-javascript-node-js-test-driven-development-a-chai-sheng-5ae7aa529013f4.9462065815251318585902.jpg" />][youtube]
+[<img align="left" alt="Mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
+[<img align="left" alt="Chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />][youtube]
 
 <br />
 <br />
