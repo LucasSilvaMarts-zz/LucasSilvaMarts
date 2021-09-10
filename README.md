@@ -34,15 +34,16 @@
 [<img align="left" alt="Chai" width="32px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />][youtube]
 [<img align="left" alt="Node" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />][youtube]
 <br />
+<br />
+<br />
+<br />
 [<img align="left" alt="sequelize" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" />][youtube]
 [<img align="left" alt="mongoose" width="32px" src="https://spng.pngfind.com/pngs/s/430-4309574_mongoose-js-logo-hd-png-download.png" />][youtube]
 [<img align="left" alt="Chai" width="32px" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" />][youtube]
 
 
 
-<br />
-<br />
-<br />
+
 <hr>
 
 <!--
