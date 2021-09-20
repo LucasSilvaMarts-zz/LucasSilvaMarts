@@ -5,7 +5,7 @@
 ## I'm a software developer
 - ✍ You can find my projects here https://github.com/LucasSilvaMarts
 - 📚 I’m currently studying at Trybe.
-- 💻 I’m currently learning NodeJs.
+- 💻 I’m currently learning Python.
 - ⚡ Fun fact: I play guitar!
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="lucas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
