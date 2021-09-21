@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Lucas 🖖</h2>
 
 ## I'm a software developer
-- ✍ You can find my projects here https://github.com/LucasSilvaMarts
+- ✍ You can find my projects here https://devmarts.herokuapp.com/portfolio
 - 📚 I’m currently studying at Trybe.
 - 💻 I’m currently learning Python.
 - ⚡ Fun fact: I play guitar!
