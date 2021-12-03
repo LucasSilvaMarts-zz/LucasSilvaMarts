@@ -23,7 +23,7 @@
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
 [<img align="left" alt="Redux" width="30px" src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" />][youtube]
 [<img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" />][youtube]
-
+<hr>
 
 <br />
 
@@ -34,6 +34,7 @@
 [<img align="left" alt="sequelize" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" />][youtube]
 [<img align="left" alt="mongoose" width="32px" src="https://spng.pngfind.com/pngs/s/430-4309574_mongoose-js-logo-hd-png-download.png" />][youtube]
 [<img align="left" alt="Socket" width="32px" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" />][youtube]
+<hr>
 
 <br />
 
@@ -41,6 +42,7 @@
 [<img align="left" alt="Jest" width="30px" src="https://jestjs.io/img/jest.png" />][youtube]
 [<img align="left" alt="Mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />][youtube]
 [<img align="left" alt="Chai" width="32px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />][youtube]
+<hr>
 
 <br />
 
