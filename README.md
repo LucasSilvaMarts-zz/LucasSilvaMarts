@@ -20,6 +20,7 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Redux" width="30px" src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" />][youtube]
 [<img align="left" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" />][youtube]
 
 
