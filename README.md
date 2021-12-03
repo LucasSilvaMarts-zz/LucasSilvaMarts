@@ -3,9 +3,10 @@
 <h2 align="center">Hi, I'm Lucas 🖖</h2>
 
 ## I'm a software developer
+- 👨‍💻 I’m currently working at VilaApps.
+- 💻 I’m currently learning TypeScript and PHP.
 - ✍ You can find my projects here https://devmarts.herokuapp.com/portfolio
-- 📚 I’m currently studying at Trybe.
-- 💻 I’m currently learning Python.
+- 📚 You can find my study notes here https://devmarts.herokuapp.com/blog
 - ⚡ Fun fact: I play guitar!
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="lucas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
