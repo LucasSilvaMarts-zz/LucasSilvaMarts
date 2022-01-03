@@ -1,6 +1,7 @@
 ![topDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave.svg)
 
 <h2 align="center">Hi, I'm Lucas 🖖</h2>
+<h4 align="center">New account</h4>
 
 ## I'm a software developer
 - 👨‍💻 I’m currently working at VilaApps.
@@ -67,7 +68,7 @@
 -->
 
  <!--![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)-->
- 
+
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight">
 </p>
